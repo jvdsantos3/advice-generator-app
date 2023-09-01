@@ -82,6 +82,7 @@ Error generating stack: `+i.message+`
 
   @media (min-width: 768px) {
     gap: 2.5rem;
+    padding: 3rem 3rem 0;
   }
 `,W0=dn.div`
   width: 18.4375rem;
