@@ -30,6 +30,10 @@ export function Advice() {
     }
   }, [advice])
 
+  useEffect(() => {
+    setLoading(false)
+  }, [])
+
   async function getRandomAdvice() {
     setLoading(true)
     setAdviceData({
