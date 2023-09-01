@@ -26,6 +26,7 @@ export const AdviceBox = styled.div`
 
   @media (min-width: 768px) {
     gap: 2.5rem;
+    padding: 3rem 3rem 0;
   }
 `
 
